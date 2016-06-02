@@ -1,5 +1,5 @@
 # react-native-file-md5-android
-本项目为React Native的Android原生模块，是 https://github.com/lovetuzitong/FileMD5 项目的react-native封装模块，用于计算指定文件的md5值。
+本项目为React Native的Android原生模块，用于计算指定文件的md5值。
 
 [![npm version](http://img.shields.io/npm/v/react-native-file-md5-android.svg?style=flat-square)](https://npmjs.org/package/react-native-file-md5-android "View this project on npm")
 [![npm downloads](http://img.shields.io/npm/dm/react-native-file-md5-android.svg?style=flat-square)](https://npmjs.org/package/react-native-file-md5-android "View this project on npm")
